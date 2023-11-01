@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://ujjawal.vercel.app/](https://ujjawal.vercel.app/)
+- 👨‍💻 Checkout my portfolio at [https://ujjawal.vercel.app/](https://ujjawal.vercel.app/)
 
 - 💬 Ask me about **react, javascript**
 
