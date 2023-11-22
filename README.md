@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Ujjawal Kumar</h1>
 <h3 align="center">A full-stack developer from India</h3>
-<img align="right" alt="Coding" height="300" width="350" src="[https://media.tenor.com/images/eb50ae15ef02993857c28e5343865b48/tenor.gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp)">
+<img align="right" alt="Coding" height="300" width="350" src="https://media.tenor.com/images/eb50ae15ef02993857c28e5343865b48/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujwl-kmr&label=Profile%20views&color=0e75b6&style=flat" alt="ujwl-kmr" /> </p>
 
